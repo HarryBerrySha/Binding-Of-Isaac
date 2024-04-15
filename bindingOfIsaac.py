@@ -1,10 +1,3 @@
-#################################################
-#Term Project
-# name:Harry Sha
-# andrew id:hsha
-# Recitation C
-#################################################
-
 from cmu_112_graphics import *
 from classes import *
 from view import *
